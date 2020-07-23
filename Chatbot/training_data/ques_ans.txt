@@ -1,0 +1,6 @@
+What is weather today?
+today's temperature is 30 degree celcius
+what will be the weather tomorrow?
+Probably 40 degrees
+schedule today?
+10:00 AM
